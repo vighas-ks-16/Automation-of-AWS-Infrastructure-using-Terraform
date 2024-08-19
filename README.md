@@ -67,6 +67,10 @@ Before you begin, ensure you have the following installed:
     ```bash
     terraform plan
     ```
+![WhatsApp Image 2024-08-15 at 17 27 04_0ebe21a7](https://github.com/user-attachments/assets/22d29385-675d-428e-833c-2b418ea74c83)
+![WhatsApp Image 2024-08-15 at 17 27 24_0f70a09b](https://github.com/user-attachments/assets/b1854d3b-3349-4fed-863a-348bf43c342d)
+
+
 
 5. **Apply the Terraform Configuration**:
     Apply the changes to create the AWS infrastructure:
@@ -74,6 +78,11 @@ Before you begin, ensure you have the following installed:
     terraform apply
     ```
     Confirm the action when prompted.
+![WhatsApp Image 2024-08-15 at 17 27 51_2749680c](https://github.com/user-attachments/assets/c161f7a2-617c-4dea-9171-9194f0865964)
+![WhatsApp Image 2024-08-15 at 17 28 13_dcbc610d](https://github.com/user-attachments/assets/24fbf06a-1a5f-4e0b-a519-4fcc91ac7b25)
+
+
+
 
 6. **Verify the Setup**:
     After the `terraform apply` command completes, you can verify the AWS resources created through the AWS Management Console.
@@ -88,3 +97,32 @@ To destroy the infrastructure when no longer needed, run:
 ```
 terraform destroy
 ```
+
+## Screenshots
+
+![WhatsApp Image 2024-08-15 at 15 28 06_bfb06bc4](https://github.com/user-attachments/assets/e03ae153-623a-454e-9d4c-d2f7760c50d7)
+![WhatsApp Image 2024-08-15 at 15 28 35_90556ef0](https://github.com/user-attachments/assets/e4fbff9e-7eb5-46a9-89cc-fdeb33a25362)
+![WhatsApp Image 2024-08-15 at 15 28 47_fa536dc8](https://github.com/user-attachments/assets/6ff3b3cc-be7d-4c14-92c3-79b693f169f5)
+![WhatsApp Image 2024-08-15 at 15 29 04_74abfd22](https://github.com/user-attachments/assets/ff920de7-eaf7-401f-990f-65bbf013011d)
+![WhatsApp Image 2024-08-15 at 15 29 20_7cc805a3](https://github.com/user-attachments/assets/59ab6850-7884-4e21-890c-42a0b0a179c5)
+![WhatsApp Image 2024-08-15 at 15 29 33_5dd5d1fa](https://github.com/user-attachments/assets/067de682-0f8c-482b-872b-052875693ed2)
+![WhatsApp Image 2024-08-15 at 15 29 46_538d1f25](https://github.com/user-attachments/assets/408e7e67-4573-4dea-abff-d978591039c3)
+![WhatsApp Image 2024-08-15 at 15 29 55_18a457a1](https://github.com/user-attachments/assets/cd7e8fc0-23fa-494e-a7e6-afbfb3b83aa9)
+![WhatsApp Image 2024-08-15 at 15 30 08_8d0c1104](https://github.com/user-attachments/assets/dd0d81d0-37a3-427b-b200-2324b69d0fb9)
+![WhatsApp Image 2024-08-15 at 15 30 20_62dc1b86](https://github.com/user-attachments/assets/6eccc345-52c1-479d-a23c-a3ed45df35bf)
+
+## Final Output 
+![WhatsApp Image 2024-08-15 at 15 27 08_1698c72b](https://github.com/user-attachments/assets/4efff46a-1def-43de-a88a-664776b93b24)
+![WhatsApp Image 2024-08-15 at 15 27 32_73318993](https://github.com/user-attachments/assets/8eb50321-587a-492a-9974-ff6da0a90828)
+
+
+
+
+
+
+
+
+
+
+
+
