@@ -14,10 +14,7 @@ This project demonstrates the use of **Infrastructure as Code (IaC)** principles
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-- [Best Practices](#best-practices)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 Terraform is a powerful tool for defining cloud infrastructure in a declarative manner. By utilizing Terraform with AWS, you can manage resources such as VPCs, subnets, route tables, security groups, EC2 instances, and load balancers with ease and reliability. This project serves as an introduction to Terraform and showcases how to use it to automate the provisioning of AWS infrastructure.
