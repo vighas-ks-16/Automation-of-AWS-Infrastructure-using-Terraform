@@ -3,6 +3,10 @@
 ## Project Description
 This project demonstrates the use of **Infrastructure as Code (IaC)** principles to automate the setup and management of AWS infrastructure using **Terraform**. The goal is to create a scalable, secure, and efficient cloud environment by defining and provisioning AWS resources in a repeatable and consistent manner.
 
+## Project Architecture
+![image](https://github.com/user-attachments/assets/38b710b6-5495-4e3b-8049-fff6ce651577)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
